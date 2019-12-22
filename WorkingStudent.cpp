@@ -1,5 +1,7 @@
 #include "Student.h"
 #include "Employee.h"
+#include "Employee.h"
+
 #include "WorkingStudent.h"
 WorkingStudent::WorkingStudent() {
 

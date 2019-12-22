@@ -1,6 +1,8 @@
 #include "Employee.h"
 #include "Student.h"
 #include "Employee.h"
+#include "Employee.h"
+
 #include "WorkingStudent.h"
 #include<iostream>>
 #include <string.h>
